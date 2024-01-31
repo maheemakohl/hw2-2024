@@ -67,6 +67,8 @@ body {
     border-left: 5px solid #FFFFFF;
     color: #707070;
   }
+  .yellow p {
+    color: #707070;
   
   .green {
     background-color: #00EB00;
